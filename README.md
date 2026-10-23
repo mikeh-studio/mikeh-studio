@@ -1,3 +1,3 @@
-I build things to learn how they work.
+I build things to learn 
 
 [mikeyh.com](https://mikeyh.com)
