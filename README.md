@@ -1,3 +1,3 @@
-I build things to learn 
+I build and learn.
 
-[mikeyh.com](https://mikeyh.com)
+[mikeyh.com →](https://mikeyh.com)
